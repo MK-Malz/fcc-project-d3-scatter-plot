@@ -1,0 +1,25 @@
+head {  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+    text-align:center;
+}
+
+#tooltip {
+    text-align:center;
+}
+
+ .dot:hover {
+    fill: grey;
+  }
+
+#doping {
+  color: orange
+}
+
+#noDoping {
+  color: blue
+}
